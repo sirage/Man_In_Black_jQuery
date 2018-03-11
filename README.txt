@@ -1,0 +1,1 @@
+The idea of this mini game is not mine, but it was full created by me inorder to test some jQueyr and javascript functionalities
